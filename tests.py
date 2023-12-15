@@ -2,7 +2,7 @@ import pytest
 
 
 def test_1():
-    assert True
+    assert 2 == 2
 
 
 if __name__ == '__main__':
